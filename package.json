@@ -1,0 +1,35 @@
+{
+  "name": "sop-bridge",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@maticnetwork/fx-portal": "^1.0.4",
+    "@maticnetwork/maticjs": "^3.0.0-beta.15",
+    "@maticnetwork/maticjs-ethers": "^0.2.0",
+    "@maticnetwork/maticjs-fxportal": "^1.0.0",
+    "@maticnetwork/maticjs-web3": "^0.6.0",
+    "@types/styled-components": "^5.1.15",
+    "axios": "^0.24.0",
+    "grommet": "^2.18.0",
+    "next": "11.1.2",
+    "nodejs": "^0.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-spring": "^9.3.0",
+    "socket.io-client": "^4.4.0",
+    "styled-components": "^5.3.3",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.32",
+    "eslint": "8.1.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "4.4.4"
+  }
+}

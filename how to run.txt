@@ -1,0 +1,5 @@
+// To set up nodejs packages
+yarn add nodejs
+
+// To start a local session
+yarn run dev
